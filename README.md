@@ -2,3 +2,5 @@
 # Bitácora
 Nombre del estudiante:  Jacobo Guillen Villa
 Id.: 000541481
+
+en este proyecto se ponen a prueba los conocimientos que hemos visto en estas dos semanas de clase como el uso y manejo de git bash con sus diferentes comandos y el para que sirven cada uno
