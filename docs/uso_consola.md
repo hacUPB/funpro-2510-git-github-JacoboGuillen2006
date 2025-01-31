@@ -1,0 +1,1 @@
+para crear directorios y archivos con los conceptos aprendidos es a pura base de git, todo se puede hacer desde el visual studio, pero desde la consola de git podemos crear diferentes carpetas y archivos para el sistema en el que estamos trabajando
