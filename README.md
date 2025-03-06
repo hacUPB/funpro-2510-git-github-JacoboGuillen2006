@@ -5,13 +5,8 @@ Id.: 000541481
 
 en este proyecto se ponen a prueba los conocimientos que hemos visto en estas dos semanas de clase como el uso y manejo de git bash con sus diferentes comandos y el para que sirven cada uno de estos comandos 
 
-[Explicación gitignore](./docs/explicaciongitignore.md)
-[Repositorio local](./docs/repositorio_local.md)
-[Repositorio remoto](./docs/repositorio_remoto.md)
+[Explicación gitignore](./docs/explicaciongitignore.md)  
+[Repositorio local](./docs/repositorio_local.md)  
+[Repositorio remoto](./docs/repositorio_remoto.md)  
 [Uso de consola](./docs/uso_consola.md)
 
-[proceso de commits](/imagenes/1.jpg)
-[proceso de commits 2](/imagenes/2.jpg)
-[listado de commits](/imagenes/3.jpg)
-[proceso de commits 3](/imagenes/4.jpg)
-[vista del gitignore](/imagenes/5.jpg)
